@@ -6,5 +6,5 @@
 
 `pip install .`
 
-Далее вводим необходимые команды `upload/download/delete...`
+Далее вводим необходимые команды `cloudphoto upload/download/delete...`
 
